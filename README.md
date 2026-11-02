@@ -20,7 +20,7 @@ pip install torch torchvision matplotlib kagglehub jupyter
 jupyter notebook notebooks/
 ```
 
-Both notebooks also run on a CPU (training takes well under a minute each).
+Both notebooks also run on a CPU.
 
 ## Data
 
