@@ -1,13 +1,13 @@
 # PyTorch Tutorial
 
-A hands-on introduction to PyTorch in two 45-minute sessions.
+A hands-on introduction to PyTorch.
 
 | Session | Notebook | Topics |
 |---|---|---|
 | 1 | [01_tensors_and_simple_nn.ipynb](notebooks/01_tensors_and_simple_nn.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ilievanadezhda/pytorch-tutorial/blob/main/notebooks/01_tensors_and_simple_nn.ipynb) | Tensors, autograd, writing a model with `nn.Module`, training an MLP on MNIST |
 | 2 | [02_cnn_satellite_classification.ipynb](notebooks/02_cnn_satellite_classification.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ilievanadezhda/pytorch-tutorial/blob/main/notebooks/02_cnn_satellite_classification.ipynb) | Custom datasets, data augmentation, convolutions, training and evaluating a CNN on satellite images |
 
-**Prerequisites:** Python, NumPy, and the basic understanding of a neural network and gradient descent.
+**Prerequisites:** Python, NumPy, and a basic understanding of neural networks and gradient descent.
 
 ## Running the notebooks
 
