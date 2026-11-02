@@ -1,0 +1,6 @@
+data/
+satellite_data/
+satellite.zip
+*.pth
+.ipynb_checkpoints/
+.DS_Store
